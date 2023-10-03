@@ -1,0 +1,72 @@
+[
+  {
+    "RANK": 1,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/220px-McDonald%27s_Golden_Arches.svg.png",
+    "COMPANY": "MCDONALD'S",
+    "CATEGORY": "BURGER",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 38524.05
+  },
+  {
+    "RANK": 2,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png",
+    "COMPANY": "STARBUCKS",
+    "CATEGORY": "SNACK",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 19700
+  },
+  {
+    "RANK": 3,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Subway_2016_logo.svg/220px-Subway_2016_logo.svg.png",
+    "COMPANY": "SUBWAY",
+    "CATEGORY": "SANDWICH",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 10410.34
+  },
+  {
+    "RANK": 4,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Taco_Bell_2016.svg/150px-Taco_Bell_2016.svg.png",
+    "COMPANY": "TACO BELL",
+    "CATEGORY": "GLOBAL",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 10300
+  },
+  {
+    "RANK": 5,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chick-fil-A_Logo.svg/220px-Chick-fil-A_Logo.svg.png",
+    "COMPANY": "CHICK-FIL-A",
+    "CATEGORY": "CHICKEN",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 10000
+  },
+  {
+    "RANK": 6,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Wendy%27s_full_logo_2012.svg/175px-Wendy%27s_full_logo_2012.svg.png",
+    "COMPANY": "WENDY'S",
+    "CATEGORY": "BURGER",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 9993.7
+  },
+  {
+    "RANK": 7,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/200px-Burger_King_2020.svg.png",
+    "COMPANY": "BURGER KING",
+    "CATEGORY": "BURGER",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 9950
+  },
+  {
+    "RANK": 8,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dunkin%27_logo.svg/220px-Dunkin%27_logo.svg.png",
+    "COMPANY": "DUNKIN'",
+    "CATEGORY": "SNACK",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 8787
+  },
+  {
+    "RANK": 9,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Domino%27s_pizza_logo.svg/120px-Domino%27s_pizza_logo.svg.png",
+    "COMPANY": "DOMINO'S",
+    "CATEGORY": "PIZZA",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 6600
+  },
+  {
+    "RANK": 10,
+    "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Panera_Bread_wordmark.svg/200px-Panera_Bread_wordmark.svg.png",
+    "COMPANY": "PANERA BREAD",
+    "CATEGORY": "SANDWICH",
+    "2018 US SYSTEMWIDE SALES MILLIONS": 5734.63
+  }
+]
